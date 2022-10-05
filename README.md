@@ -1,8 +1,4 @@
 ### Database
-# Flight management
-- In this project, we will understand:
-1. What is the role of Databases in an organization's information systems and explain basic concepts of databases, database systems, and the relational data model
-2. Apply *the ERD model* to model the data of the Databases at the basic level
-3. Detect, describe, and declare constraints on data
-
+# Topic Management
+- In this project, we will understand how to use query languages to manipulate the database of the relational data model
 - Password to enter the field, please contract me. Thank you !
